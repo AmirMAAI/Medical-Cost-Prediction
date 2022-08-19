@@ -4,7 +4,7 @@ Health insurance is insurance that covers the whole or a part of the risk of a p
 According to the Health Insurance Association of America, health insurance is defined as "coverage that provides for the payments of benefits as a result of sickness or injury. It includes insurance for losses from accident, medical expense, disability, or accidental death and dismemberment.
 Goal of this data processing is to predict accurately the insurance costs.
 
-#Data
+# Data
 
 This dataset has 6 variable:
 
